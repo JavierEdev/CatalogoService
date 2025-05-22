@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CatalogoService\\CatalogoService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\domain\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:domain\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\domain\\entities\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:domain\\entities\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\controllers\\horariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:controllers\\horariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\domain\\entities\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:domain\\entities\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\domain\\entities\\lugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:domain\\entities\\lugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\controllers\\lugarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:controllers\\lugarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\controllers\\rutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:controllers\\rutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\infrastructure\\factories\\mysqlrepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:infrastructure\\factories\\mysqlrepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\application\\factories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:application\\factories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\infrastructure\\mysql\\rutamysqladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:infrastructure\\mysql\\rutamysqladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\infrastructure\\mysql\\lugarmysqladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:infrastructure\\mysql\\lugarmysqladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\infrastructure\\mysql\\horariomysqladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:infrastructure\\mysql\\horariomysqladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\application\\interfaces\\irutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:application\\interfaces\\irutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\application\\interfaces\\ilugarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:application\\interfaces\\ilugarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\application\\interfaces\\ihorariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:application\\interfaces\\ihorariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\infrastructure\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:infrastructure\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|c:\\catalogoservice\\catalogoservice\\catalogoservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3605C9E-D6C3-479D-B6C2-5AE870C53600}|CatalogoService.csproj|solutionrelative:catalogoservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LugaresController.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Controllers\\LugaresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LugaresController.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Controllers\\LugaresController.cs",
+              "RelativeToolTip": "Controllers\\LugaresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:58:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HorarioController.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Controllers\\HorarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HorarioController.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Controllers\\HorarioController.cs",
+              "RelativeToolTip": "Controllers\\HorarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:58:16.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RutaMySqlAdapter.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\MySQL\\RutaMySqlAdapter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MySQL\\RutaMySqlAdapter.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\MySQL\\RutaMySqlAdapter.cs",
+              "RelativeToolTip": "Infrastructure\\MySQL\\RutaMySqlAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:57:48.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LugarMySqlAdapter.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\MySQL\\LugarMySqlAdapter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MySQL\\LugarMySqlAdapter.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\MySQL\\LugarMySqlAdapter.cs",
+              "RelativeToolTip": "Infrastructure\\MySQL\\LugarMySqlAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:57:27.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HorarioMySqlAdapter.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\MySQL\\HorarioMySqlAdapter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MySQL\\HorarioMySqlAdapter.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\MySQL\\HorarioMySqlAdapter.cs",
+              "RelativeToolTip": "Infrastructure\\MySQL\\HorarioMySqlAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:57:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRutaRepository.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Application\\Interfaces\\IRutaRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRutaRepository.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Application\\Interfaces\\IRutaRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRutaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:54:12.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:43:24.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lugar.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Lugar.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Lugar.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Lugar.cs",
+              "RelativeToolTip": "Domain\\Entities\\Lugar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:41:48.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ruta.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Ruta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Ruta.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Ruta.cs",
+              "RelativeToolTip": "Domain\\Entities\\Ruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:41:57.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Horario.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Horario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Horario.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Horario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Horario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:42:19.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Bus.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Bus.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Domain\\Entities\\Bus.cs",
+              "RelativeToolTip": "Domain\\Entities\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:42:10.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RutasController.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Controllers\\RutasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RutasController.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Controllers\\RutasController.cs",
+              "RelativeToolTip": "Controllers\\RutasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:13.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MySQLRepositoryFactory.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\Factories\\MySQLRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factories\\MySQLRepositoryFactory.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\Factories\\MySQLRepositoryFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factories\\MySQLRepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:00:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Application\\Factories\\IRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\IRepositoryFactory.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Application\\Factories\\IRepositoryFactory.cs",
+              "RelativeToolTip": "Application\\Factories\\IRepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:02:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILugarRepository.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Application\\Interfaces\\ILugarRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ILugarRepository.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Application\\Interfaces\\ILugarRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ILugarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:53:53.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHorarioRepository.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Application\\Interfaces\\IHorarioRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IHorarioRepository.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Application\\Interfaces\\IHorarioRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IHorarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:53:35.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CatalogoService",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\CatalogoService.csproj",
+              "RelativeDocumentMoniker": "CatalogoService.csproj",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\CatalogoService.csproj",
+              "RelativeToolTip": "CatalogoService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T05:46:27.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T05:43:41.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\CatalogoService\\CatalogoService\\Infrastructure\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:43:12.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

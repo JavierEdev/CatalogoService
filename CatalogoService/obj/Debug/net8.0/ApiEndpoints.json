@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "CatalogoService.Controllers.HorarioController",
+    "Method": "ObtenerHorarios",
+    "RelativePath": "api/horarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rutaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogoService.Controllers.LugaresController",
+    "Method": "ObtenerLugares",
+    "RelativePath": "api/lugares",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogoService.Controllers.RutasController",
+    "Method": "BuscarRutas",
+    "RelativePath": "api/rutas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idOrigen",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idDestino",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
